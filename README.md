@@ -1,5 +1,8 @@
 # Android-Architectural-Components
  - In this repository I have built a android application using JAVA and included some architectural component like lifecycle, room database, live data and more.
+ - I have used sqlite to presist the data even after closing and opening the application.
+
+
  - <img src="screenshots/1.png" width="350" alt="screenshot">
  - <img src="screenshots/2.png" width="350" alt="screenshot">
  - <img src="screenshots/3.png" width="350" alt="screenshot">
